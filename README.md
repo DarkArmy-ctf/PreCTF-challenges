@@ -1,9 +1,10 @@
 # Pre-CTF-Challenges !
-It is for the pre DarkCTF and it is public now 
+All challs which were hosted on Pre Dark-CTF
 
-Which is having the catagories 
-#OSINT
-#PWN
-#Reverse
-#Forensics
-#Misc.
+## Categories
+## Crypto
+### Osint
+### Pwn
+### Reverse
+### Forensics
+### Misc.
