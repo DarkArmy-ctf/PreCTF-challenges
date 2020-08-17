@@ -1,5 +1,5 @@
 # Pre-CTF-Challenges !
-It is for the DarkCTF and it is private now 
+It is for the pre DarkCTF and it is publi now 
 
 Which is having the catagories 
 #OSINT
