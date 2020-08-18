@@ -13,5 +13,5 @@ darkctf{Words(all small lettered)_separated_by_underscore}
 ```
 ## File(s)
 ```
-lookatthis.txt, youhaveit.py
+look.txt, youhaveit.py
 ```
